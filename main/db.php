@@ -1,0 +1,1 @@
+<?php $key=new PDO('mysql:server=127.0.0.1; dbname=users','root',''); ?>
