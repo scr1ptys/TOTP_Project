@@ -18,7 +18,7 @@ Follow these steps to set up the project:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/scr1ptys/TOTP_Project.git
-   cd TOTP_Project
+   cd TOTP_Project/main
    composer require spomky-labs/otphp
    composer require endroid/qr-code
    ```
