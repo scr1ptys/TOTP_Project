@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS users;
+CREATE DATABASE users;
+CREATE TABLE users.accounts(id INT(11) PRIMARY KEY AUTO_INCREMENT, username VARCHAR(255), password VARCHAR(255), secret_code varchar(255));
+
+DELETE FROM users.accounts ;
